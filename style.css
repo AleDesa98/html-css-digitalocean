@@ -1,0 +1,78 @@
+/* NAV BAR */
+.nav_bar {
+    margin: 15px 0;
+}
+
+.nav_bar_logo img {
+    height: 40px;
+    text-align: left;
+}
+
+.hamburger-button {
+    height: 40px;
+    position: relative;
+}
+
+.hamburger-button i {
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-40%)
+}
+
+.center_links_menu {
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.center_link_item {
+    padding-right: 10px;
+}
+
+.right_links_menu {
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    color: black;
+}
+
+.right_link_item {
+    margin-right: 10px;
+}
+
+.nav_bar_btn {
+    padding: 8px;
+    border: 1px solid #2385FD;
+    border-radius: 5px;
+    color: #2385FD;
+}
+
+.nav_bar_btn:hover {
+    background-color: #2385FD;
+    color: white;
+}
+
+/* JUMBOTRON */
+.a_jumbotron {
+    background-image: url("img/bg-banner-home.jpg");
+    padding: 50px 0;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+}
+
+.a_jumbotron p {
+    color: #BBCCFF;
+    font-size: 23px;
+}
+
+.container_white {
+    background-color: white;
+    border-radius: 5px;
+}
+
+
